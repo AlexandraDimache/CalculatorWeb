@@ -1,4 +1,4 @@
-# Calculator- Build a basic calculator with HTML, CSS, and JavaScript
+Build a basic calculator with HTML, CSS, and JavaScript
 - Semantic HTML
 - CSS grid
 - Vanilla JavaScript with arrow functions
